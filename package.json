@@ -1,11 +1,11 @@
 {
-  "name": "boilerplate",
+  "name": "react-timer",
   "version": "1.0.0",
-  "description": "React Boilerplate",
+  "description": "React Timer",
   "main": "index.js",
   "scripts": {
-     "test": "echo \"Error: no test specified\" && exit 1",
-     "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "Josip Susic",
   "license": "MIT",
@@ -23,11 +23,12 @@
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-0": "^6.5.0",
     "css-loader": "^0.23.1",
+    "foundation-sites": "^6.3.1",
     "jquery": "^2.2.1",
     "node-sass": "^4.5.2",
     "sass-loader": "^6.0.3",
     "script-loader": "^0.6.1",
     "style-loader": "^0.13.0",
-    "webpack": "^1.12.13"
+    "webpack": "^1.14.0"
   }
 }
